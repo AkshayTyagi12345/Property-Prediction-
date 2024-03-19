@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
+scikit-learn==1.4.1
 from sklearn.ensemble import RandomForestRegressor
 
 st.set_page_config(page_title='Viz Demo')
