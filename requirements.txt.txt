@@ -1,4 +1,0 @@
-pandas 
-numpy 
-sklearn
-scikit-learn==1.4.1
